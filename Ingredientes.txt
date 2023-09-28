@@ -1,0 +1,10 @@
+Harina                 500
+Azúcar                 200
+Huevos                 3
+Leche                  1
+Mantequilla            100
+Sal                    5
+Polvo de hornear       10
+Chocolate en polvo     50
+Extracto de vainilla   5
+Aceite de oliva        50
